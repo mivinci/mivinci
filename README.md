@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Mivinci/Mivinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I didn't know GitHub has this feature.
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
