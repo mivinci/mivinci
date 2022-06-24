@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I didn't know GitHub has this feature. Here's my [resume](https://resume.xjj.pub).
+I didn't know that GitHub has this feature.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci)
 
