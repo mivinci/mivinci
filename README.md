@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm x and interested in computer technologies. I learn things by creating them myself. My favorite programming language is C, C89 to be specific :)
+I'm x and interested in computer technologies. I learn things by creating them myself. C, C89 to be specific, is my favorite programming language cuz I like the feeling of having the memory in my head while programming :)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci)
 
