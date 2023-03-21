@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm x and interested in computer technologies. I learn things by creating them myself. C, C89 to be specific, is my favorite programming language cuz I like the feeling of having the memory in my head while programming :)
+I'm x and interested in computer technologies, especially decentralized networking and compilers. I learn things by creating them myself. C, C89 to be specific, is my favorite programming language cuz I like the feeling of having the memory in my head while programming :)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci)
 
@@ -12,8 +12,8 @@ Currently working on:
 - [xoolab/ai](https://github.com/xoolab/ai) - a cloud-native solution to put multiple ML models into production.
 - [xoolab/ui](https://github.com/xoolab/ui) - a web UI toolkits with Tailwind and Svelte.
 - [xoolab/obs](https://github.com/xoolab/obs) - an open board system built with [xoolab/ui](https://github.com/xoolab/ui) and xoolab/nebula.
-- [xoolab/libx](https://github.com/xoolab/libx) - a low-level C library for network programming.
 - xoolab/nebula (private) - a universal serverless service framework.
+- [libx](https://github.com/mivinci/libx) - a low-level C library for network programming.
 
 Will soon be doing:
 
