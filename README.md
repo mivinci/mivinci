@@ -9,7 +9,7 @@ I'm x and interested in computer technologies, especially decentralized networki
 
 Currently working on:
 
-- [xoolab/ai](https://github.com/xoolab/ai) - a cloud-native solution to put multiple ML models into production.
+- [xoolab/ai](https://github.com/xoolab/ai) - a pluggable and lightweight toolkit to put multiple ML models into production.
 - [xoolab/ui](https://github.com/xoolab/ui) - a web UI toolkits with Tailwind and Svelte.
 - [xoolab/obs](https://github.com/xoolab/obs) - an open board system built with [xoolab/ui](https://github.com/xoolab/ui) and xoolab/nebula.
 - xoolab/nebula (private) - a universal serverless service framework.
