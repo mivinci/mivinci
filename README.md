@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I'm x and interested in computer technologies especially operating systems and compilers. Have a good day :)
+I'm x, a 70% tech guy from Earth who likes to study new theories and technologies as well as very old ones. Currently I'm playing with LLMs. Below are some of my favorites. Buy me a milktea (full sugar) if they also match yours :)
+
+- Editer: Visual Studio Code
+- Programming language: C89
+- Database: SQLite
+- Linux distro: WSL2
+- Game: Minecraft
+- CSS framework: Tailwind CSS
+- Web framework: none
+
+almost forgot, the other 30% are theoretical physics, music and sex.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci)
 
