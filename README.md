@@ -10,6 +10,8 @@ I'm x, a 70% tech guy from Earth who likes to study new theories and technologie
 - CSS framework: Tailwind CSS
 - Web framework: none
 
+Not because they're practical for production (some are actually far from practical), but for their symmetric and beautiful abstraction itself.
+
 almost forgot, the other 30% are theoretical physics, music and sex.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci)
