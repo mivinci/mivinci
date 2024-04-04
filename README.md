@@ -1,5 +1,3 @@
-### Hi there 👋
-
 >
 > Windows is the best Linux for desktops.
 > —— I said
