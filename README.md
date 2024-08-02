@@ -1,4 +1,4 @@
-Hi there 👋, I'm Leo, a software developer from China. I enjoy working on operating systems, compilers and writing stuffs in C89. Besides programming, I enjoy theoretical physics and music. Minecraft is my favorite video game. Live long and prosper 🖖.
+Hi there 👋, I'm Leo, a software developer. I enjoy working on operating systems, compilers and writing stuffs in C89. Besides programming, I enjoy theoretical physics and music. Minecraft is my favorite video game. Live long and prosper 🖖.
 
 >
 > Windows is the best Linux for desktops.
