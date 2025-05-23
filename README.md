@@ -1,4 +1,4 @@
-👋 Hi there. I’m XJJ, aka 叉JJ, 小丽 or Leonard, a guy and also (going to be) a T-shaped and independent software developer. I have a strong sense of aesthetics for everything and relentless drive to abstract away complexity. C89 is my favorite C standard. Outside of programming, I enjoy theoretical physics, music and singing. Minecraft is my all-time favorite video game. Live long and prosper 🖖 
+👋 Hi there. I’m XJJ, aka 叉JJ, 小丽 or Leonard, a guy and also (going to be) a T-shaped and independent software developer with a crazy strong sense of aesthetics for everything and relentless drive to abstract away complexity. C89 is my favorite C standard. Outside of programming, I enjoy theoretical physics, music and singing. Minecraft is my all-time favorite video game. Live long and prosper 🖖 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci&label=visitors&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmivinci%2Fmivinci)
 
